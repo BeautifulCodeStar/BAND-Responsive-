@@ -1,0 +1,900 @@
+/* STYLESHEET FOR IMM/SMART CONTENT */
+/* CONTENT: PROTOTYPE */
+/* CYCLE: CYCLE 3 2017*/
+/* LANGUAGE: ENGLISH */
+
+#legal, #company {
+    color: #5c92ba;
+}
+
+/* ------------- */
+/* 525X700 RATIO */
+/* ------------- */
+#intel-core-i5.ratio_525x700 {
+    margin-top: 7%;
+    margin-left: 35%;
+    width: 29.52%;
+}
+
+#pre-headline.ratio_525x700{
+    font-size: 1.5em;
+    top: 30%;
+    left: 6%;
+}
+
+#headline.ratio_525x700 {
+    font-size: 3.8em;
+    top: 32%;
+    left: 6%;
+}
+
+#subheadline.ratio_525x700 {
+    font-size: 3.2em;
+    top: 38%;
+    left: 6%;
+    color: #fff;
+}
+
+#single-charge.ratio_525x700 {
+    font-size: 1.4em;
+    top: 43%;
+    left: 6%;
+}
+
+h3.ratio_525x700{
+    font-size: 2.5em;
+    bottom: 6%;
+    right: 6%;
+}
+
+#legal.ratio_525x700{
+    font-size: 0.8em;
+    bottom: 3%;
+    right: 3%;
+}
+
+#viking.ratio_525x700{
+    width: 67%;
+    position: absolute;
+    top: 50%;
+    left: 38%;
+    margin-left: -25%;
+}
+
+#thinner.ratio_525x700 {
+    display: none;
+}
+
+#intel-powered.ratio_525x700 {
+    display: none;
+}
+
+#binge-watch.ratio_525x700 {
+    display: none;
+}
+
+#desktop.ratio_525x700 {
+    display: none;
+}
+
+#radial.ratio_525x700 {
+    position: absolute;
+    top: 53%;
+    left: 23%;
+    width: 50%;
+}
+
+#shop.ratio_525x700,
+#company.ratio_525x700 {
+    display: none;
+}
+
+/* ------------- */
+/* 350X700 RATIO */
+/* ------------- */
+
+#intel-core-i5.ratio_350x700 {
+    margin-top: 7%;
+    margin-left: 35%;
+    width: 29.52%;
+}
+
+#pre-headline.ratio_350x700{
+    font-size: 1.8em;
+    top: 24%;
+    left: 6%;
+}
+
+#headline.ratio_350x700 {
+    font-size: 5.4em;
+    top: 27%;
+    left: 6%;
+    width: 65%;
+    line-height: 90%;
+}
+
+#subheadline.ratio_350x700 {
+    font-size: 5.2em;
+    top: 38%;
+    left: 6%;
+    color: #fff;
+    line-height: 89%;
+}
+
+#single-charge.ratio_350x700 {
+    font-size: 1.8em;
+    top: 47%;
+    left: 6%;
+}
+h3.ratio_350x700{
+    font-size: 4em;
+    bottom: 6%;
+    right: 6%;
+}
+
+#legal.ratio_350x700{
+    bottom: 3%;
+    right: 6%;
+    text-align: right;
+    width: 63%;
+}
+
+#viking.ratio_350x700{
+    width: 85%;
+    position: absolute;
+    top: 53%;
+    left: 33%;
+    margin-left: -25%;
+}
+
+#thinner.ratio_350x700 {
+    display: none;
+}
+
+#intel-powered.ratio_350x700 {
+    display: none;
+}
+
+#binge-watch.ratio_350x700 {
+    display: none;
+}
+
+#desktop.ratio_350x700 {
+    display: none;
+}
+
+#radial.ratio_350x700 {
+    position: absolute;
+    top: 51%;
+    left: 16%;
+    width: 77%;
+}
+#shop.ratio_350x700,
+#company.ratio_350x700 {
+    display: none;
+}
+
+/* ------------- */
+/* 175X700 RATIO */
+/* ------------- */
+
+#intel-core-i5.ratio_175x700 {
+    margin-top: 7%;
+    margin-left: 35%;
+    width: 29.52%;
+}
+
+#pre-headline.ratio_175x700{
+    margin-top: 55%;
+    text-align: center;
+    width: 100%;
+}
+
+#headline.ratio_175x700 {
+    margin-top: 60%;
+    text-align: center;
+}
+
+#subheadline.ratio_175x700 {
+    font-size: 5.2em;
+    top: 34%;
+    left: 6%;
+    color: #fff;
+    text-align: center;
+    width: 88%;
+}
+
+#single-charge.ratio_175x700 {
+    font-size: 1.8em;
+    top: 46%;
+    left: 6%;
+    text-align: center;
+    width: 88%;
+}
+h3.ratio_175x700{
+    bottom: 15%;
+    right: 6%;
+    text-align: center;
+    width: 84%;
+}
+
+#legal.ratio_175x700{
+    font-size: 0.8em;
+    bottom: 3%;
+    text-align: center;
+    width: 100%;
+}
+
+#viking.ratio_175x700{
+    width: 85%;
+    position: absolute;
+    top: 53%;
+    left: 33%;
+    margin-left: -25%;
+}
+
+#thinner.ratio_175x700 {
+    display: none;
+}
+
+#intel-powered.ratio_175x700 {
+    display: none;
+}
+
+#binge-watch.ratio_175x700 {
+    display: none;
+}
+
+#desktop.ratio_175x700 {
+    display: none;
+}
+
+#radial.ratio_175x700 {
+    position: absolute;
+    top: 51%;
+    left: 16%;
+    width: 79%;
+}
+
+#shop.ratio_175x700,
+#company.ratio_175x700 {
+    display: none;
+}
+
+/* ------------- */
+/* 700X700 RATIO */
+/* ------------- */
+#pre-headline.ratio_700x700{
+    font-size: 1.5em;
+    top: 10%;
+    left: 5%;
+}
+#headline.ratio_700x700 {
+    font-size: 4.1em;
+    top: 12.5%;
+    left: 5%;
+}
+#subheadline.ratio_700x700 {
+    font-size:  3.3em;
+    top: 20%;
+    left: 5%;
+    color: white;
+}
+#single-charge.ratio_700x700 {
+    font-size: 1em;
+    top: 26%;
+    left: 5%;
+}
+#intel-core-i5.ratio_700x700 {
+    position: absolute;
+    margin-top: 41%;
+    margin-left: 6%;
+    width: 20%;
+}
+#desktop.ratio_700x700 {
+    display: none;
+}
+#intel-power, #binge-watch, #thinner {
+    display: none;
+}
+#company.ratio_700x700 {
+    display: none;
+}
+#radial.ratio_700x700{
+    position: absolute;
+    right: 9%;
+    top: 25%;
+    width: 68%;
+}
+#viking.ratio_700x700{
+    position: absolute;
+    margin-top: 32%;
+    width: 70%;
+    margin-left: 20%;
+}
+#legal.ratio_700x700 {
+    top: 97%;
+    font-size: 11px;
+    padding: 5px;
+    font-weight: 100;
+    right: 4%;
+}
+#cta.ratio_700x700 {
+    font-size: 2em;
+    top: 89%;
+    left: 49%;
+    width: 43%;
+    text-align: center;
+}
+#shop.ratio_700x700,
+#company.ratio_700x700 {
+    display: none;
+}
+
+/* ------------- */
+/* 700X525 RATIO */
+/* ------------- */
+#pre-headline.ratio_700x525 {
+    font-size: 1.5em;
+    top: 5%;
+    left: 5%;
+}
+#headline.ratio_700x525 {
+    font-size: 4.1em;
+    top: 8%;
+    left: 5%;
+}
+#subheadline.ratio_700x525 {
+    font-size: 3.3em;
+    top: 18%;
+    left: 5%;
+    color: white;
+}
+#single-charge.ratio_700x525 {
+    font-size: 1em;
+    top: 26%;
+    left: 5%;
+}
+#intel-core-i5.ratio_700x525 {
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 5%;
+    width: 18%;
+}
+#desktop.ratio_700x525 {
+    display: none;
+}
+#intel-power, #binge-watch, #thinner {
+    display: none;
+}
+#radial.ratio_700x525{
+    position: absolute;
+    right: 21%;
+    margin-top: 17%;
+    top: 0%;
+    width: 45%;
+}
+#viking.ratio_700x525{
+    position: absolute;
+    margin-top: 21%;
+    width: 52%;
+    margin-left: 23%;
+}
+#legal.ratio_700x525 {
+    bottom: 1%;
+    font-size: 11px;
+    right: 3%;
+    font-weight: 100;
+}
+#cta.ratio_700x525 {
+    top: 87%;
+    left: 61%;
+    font-size: 25px;
+    width: 32%;
+    text-align: center;
+}
+#shop.ratio_700x525,
+#company.ratio_700x525 {
+    display: none;
+}
+/* ------------- */
+/* 320X50 RATIO */
+/* ------------- */
+#pre-headline.ratio_320x50 ,
+#headline.ratio_320x50, 
+#subheadline.ratio_320x50,
+#single-charge.ratio_320x50,
+#desktop.ratio_320x50,
+#legal.ratio_320x50,
+#cta.ratio_320x50,
+#intel-power,
+#binge-watch,
+#thinner {
+    display: none;
+}
+#intel-core-i5.ratio_320x50 {
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 2%;
+    width: 10%;
+}
+#binge-watch.ratio_320x50 {
+    display: block;
+    font-size: 3em;
+    top: 17%;
+    color: white;
+    left: 17%;
+}
+#radial.ratio_320x50{
+    position: absolute;
+    right: 3%;
+    width: 17%;
+}
+#viking.ratio_320x50{
+    position: absolute;
+    width: 17%;
+    top: 18%;
+    right: 2%;
+}   
+#shop.ratio_320x50 {
+    display: block;
+    font-size: 2.8em;
+    left: 17%;
+    top: 50%;
+}
+#company.ratio_320x50 {
+    display: block;
+    right: 23%;
+    top: 74%;
+    font-size: 1.5em;   
+}
+/* ------------- */
+/* 320X100 RATIO */
+/* ------------- */
+#pre-headline.ratio_320x100 ,
+#headline.ratio_320x100, 
+#subheadline.ratio_320x100,
+#single-charge.ratio_320x100,
+#desktop.ratio_320x100,
+#legal.ratio_320x100,
+#cta.ratio_320x100,
+#intel-power,
+#binge-watch,
+#thinner {
+    display: none;
+}
+#intel-core-i5.ratio_320x100 {
+    position: absolute;
+    margin-top: 6%;
+    margin-left: 4%;
+    width: 17%;
+}
+
+#binge-watch.ratio_320x100 {
+    display: block;
+    width: 40%;
+    line-height: 100%;
+    font-size: 3.6em;
+    top: 17%;
+    color: white;
+    left: 26%;
+}
+#radial.ratio_320x100{
+    position: absolute;
+    right: 7%;
+    top: 11%;
+    width: 25%;
+}
+#viking.ratio_320x100{
+    position: absolute;
+    width: 28%;
+    top: 15%;
+    right: 5%;
+}
+#shop.ratio_320x100 {
+    display: block;
+    font-size: 2.8em;
+    left: 26%;
+    top: 55%;
+}
+#company.ratio_320x100 {
+    display: block;
+    left: 5%;
+    top: 85%;
+    font-size: 1.5em;
+}
+
+/* ------------- */
+/* 700X350 RATIO */
+/* ------------- */
+#pre-headline.ratio_700x350 {
+    position: relative;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-size: 23px;
+} 
+
+#headline.ratio_700x350 {
+    font-size: 68px;
+    position: absolute;
+    padding-left: 5%;
+    top: 8%;
+} 
+
+#subheadline.ratio_700x350 {
+    position: absolute;
+    font-size: 55px;
+    color: #fff;
+    padding-left: 5%;
+    top: 23%;
+} 
+
+#single-charge.ratio_700x350 {
+    position: absolute;
+    padding-left: 5%;
+    font-size: 19px;
+    font-weight: 300;
+    top: 35%;
+} 
+
+#thinner.ratio_700x350 {
+    display: none;
+} 
+
+#intel-powered.ratio_700x350 {
+    display: none;
+} 
+
+#binge-watch.ratio_700x350 {
+    display: none;
+} 
+
+#cta.ratio_700x350 {
+    bottom: 13%;
+    right: 5%;
+    font-size: 26px;
+    padding: 1% 1.5%;
+} 
+
+#legal.ratio_700x350 {
+    bottom: 3%;
+    right: 5%;
+    font-size: 9px;
+    color: #5c92ba;
+} 
+
+#intel-core-i5.ratio_700x350 {
+    width: 16%;
+    left: 5%;
+    top: 45%;
+    position: absolute;
+} 
+
+#desktop.ratio_700x350 {
+    display: none;
+} 
+
+#radial.ratio_700x350 {
+    width: 28%;
+    left: 26%;
+    position: absolute;
+    top: 40%;
+} 
+
+#viking.ratio_700x350 {
+    width: 34%;
+    position: absolute;
+    left: 23%;
+    top: 39%;
+} 
+#shop.ratio_700x350,
+#company.ratio_700x350 {
+    display: none;
+}
+/* ------------- */
+/* 700X175 RATIO */
+/* ------------- */
+#pre-headline.ratio_700x175 {
+    position: relative;
+    padding-left: 21%;
+    padding-top: 3%;
+    font-size: 18px;
+    width: 35%;
+} 
+
+#headline.ratio_700x175 {
+    width: 35%;
+    font-size: 33px;
+    position: relative;
+    padding-left: 21%;
+    line-height: 100%;
+} 
+
+#subheadline.ratio_700x175 {
+    position: relative;
+    width: 35%;
+    font-size: 25px;
+    color: #fff;
+    padding-left: 21%;
+    line-height: 99%;
+} 
+
+#single-charge.ratio_700x175 {
+    position: relative;
+    padding-left: 21%;
+    font-size: 13px;
+    font-weight: 300;
+    width: 35%;
+} 
+
+#thinner.ratio_700x175 {
+    display: none;
+} 
+
+#intel-powered.ratio_700x175 {
+    display: none;
+} 
+
+#binge-watch.ratio_700x175 {
+    display: none;
+} 
+
+#cta.ratio_700x175 {
+    bottom: 17%;
+    right: 2%;
+    font-size: 18px;
+} 
+
+#legal.ratio_700x175 {
+    bottom: 2%;
+    right: 2%;
+    font-size: 9px;
+    color: #5c92ba;
+} 
+
+#intel-core-i5.ratio_700x175 {
+    width: 14%;
+    left: 4%;
+    top: 18%;
+    position: absolute;
+} 
+
+#desktop.ratio_700x175 {
+    display: none;
+} 
+
+#radial.ratio_700x175 {
+    width: 23%;
+    left: 51%;
+    position: absolute;
+    top: 0px;
+} 
+
+#viking.ratio_700x175 {
+    width: 26%;
+    position: absolute;
+    left: 47%;
+    top: 9%;
+}
+#shop.ratio_700x175,
+#company.ratio_700x175 {
+    display: none;
+}
+
+/* ------------- */
+/* 1050X175 RATIO */
+/* ------------- */
+#pre-headline.ratio_1050x175{
+    font-size: 14.4px;
+    top: 26%;
+    left: 18%;
+}
+#headline.ratio_1050x175{
+    font-size: 24.32px;
+    margin-top: 6%;
+    margin-left: 18%;
+}
+#subheadline.ratio_1050x175{
+    font-size: 19.52px;
+    margin-top: 9%;
+    margin-left: 18%;
+    color: white;
+}
+#single-charge.ratio_1050x175{
+    font-size: 12.8px;
+    margin-top: 11%;
+    margin-left: 18%;
+}
+#thinner.ratio_1050x175{
+    display: none;
+}
+#intel-powered.ratio_1050x175{
+    font-size: 132%;
+    margin-top: 9%;
+    margin-left: 18%;
+}
+#binge-watch.ratio_1050x175{
+    display: none;
+}
+#cta.ratio_1050x175{
+    margin-top: 10%;
+    font-size: 18.72px;
+    margin-left: 76%;
+}
+#legal.ratio_1050x175{
+    font-size: 58%;
+    position: absolute;
+    bottom: 2%;
+    right: 2%;
+}
+#intel-core-i5.ratio_1050x175{
+    width: 13%;
+    margin: 0 7% 18% 3%;
+    margin-top: 2%;
+    margin-left: 3%;
+} 
+}
+#desktop.ratio_1050x175{
+    display: none;
+}
+#radial.ratio_1050x175{
+    position: absolute;
+    margin-left: 28%;
+    margin-top: 2%;
+    width: 16%;
+}
+#viking.ratio_1050x175{
+    width: 16%;
+    margin-top: 4%;
+    position: absolute;
+    margin-left: 26%;
+}
+#shop.ratio_1050x175,
+#company.ratio_1050x175 {
+    display: none;
+}
+/* ------------- */
+/* 728X90 RATIO */
+/* ------------- */
+#pre-headline.ratio_728x90{
+    font-size: 80%;
+    top: 14%;
+    left: 5%;
+}
+#headline.ratio_728x90{
+    font-size: 150%;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+#subheadline.ratio_728x90{
+    font-size: 120%;
+    margin-top: 5.8%;
+    color: white;
+    margin-left: 5%;
+}
+#single-charge.ratio_728x90{
+    font-size: 80%;
+    margin-top: 8%;
+    margin-left: 5%;
+}
+#thinner.ratio_728x90{
+    display: none;
+}
+#intel-powered.ratio_728x90{
+    margin-top: 6%;
+    margin-left: 5%;
+}
+#binge-watch.ratio_728x90{
+    display: none;
+}
+#cta.ratio_728x90{
+    position: absolute;
+    bottom: 34%;
+    right: 4%;
+    padding: 0.5% 1%;
+}
+#legal.ratio_728x90{
+    position: absolute;
+    right: 3%;
+    bottom: 4%;
+    text-align: right;
+    width: 34%;
+    font-size: 9px;
+    color: #5c92ba;
+}
+#intel-core-i5.ratio_728x90{
+    width: 6%;
+    margin-top: 1.5%;
+    margin-left: 65%;
+    position: absolute;
+} 
+#desktop.ratio_728x90{
+    display: none;
+}
+#radial.ratio_728x90{
+    position: absolute;
+    margin-left: 42%;
+    margin-top: 4%;
+    width: 20%;
+    height: 70%;
+}
+#viking.ratio_728x90{
+    position: absolute;
+    width: 14%;
+    margin-top: 1%;
+    margin-left: 45%;
+}
+#shop.ratio_728x90,
+#company.ratio_728x90 {
+    display: none;
+}
+/* ------------- */
+/* 300X250 RATIO */
+/* ------------- */
+#pre-headline.ratio_300x250 {
+    font-size: 1.5em;
+    top: 5.6%;
+    left: 6%;
+}
+#headline.ratio_300x250 {
+    font-size: 4.2em;
+    top: 8%;
+    left: 6%;
+}
+#subheadline.ratio_300x250 {
+    font-size: 3.4em;
+    top: 17%;
+    left: 6%;
+    color: white;
+}
+#single-charge.ratio_300x250 {
+    font-size: 1.5em;
+    top: 25%;
+    left: 6%;
+}
+#thinner.ratio_300x250, 
+#intel-powered.ratio_300x250, 
+#binge-watch.ratio_300x250 {
+    display: none;
+}
+
+#intel-core-i5.ratio_300x250 {
+    margin-top: 30%;
+    margin-left: 6%;
+    width: 21.3%;
+}
+#desktop.ratio_300x250 {
+    display: none;
+}
+#viking.ratio_300x250 {
+    width: 50%;
+    margin-top: 24%;
+    margin-left: 11%;
+    position: absolute;
+}
+#radial.ratio_300x250 {
+    margin-left: 10%;
+    margin-top: 39%;
+    position: absolute;
+    width: 60%;
+    height: 32%;
+}
+#legal.ratio_300x250 {
+    width: 29%;
+    bottom: 7%;
+    left: 6%;
+    position: absolute;
+}
+#cta.ratio_300x250 {
+    bottom: 8%;
+    right: 13%;
+    width: 40%;
+    height: 6%;
+    font-size: 2.3em;
+    text-align: center;
+    position: absolute;
+}
+#shop.ratio_300x250,
+#company.ratio_300x250 {
+    display: none;
+}

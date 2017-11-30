@@ -1,0 +1,44 @@
+html{
+	margin:0;
+	padding:0;
+	overflow: hidden;
+}
+body{
+	background: #004d86;
+	margin:0;
+	padding:0;
+}
+h1{
+	font-family: 'IntelClear';
+	color: #FFE55E;
+	position: absolute;
+	margin:0;
+	padding:0;
+}
+h2{
+	color: white;
+    font-family: 'IntelClear';
+    position: absolute;
+}
+h3{
+	color: #0071C5;
+	font-family: 'IntelClearThin';
+	background-color: #FFE55E;
+	padding:1vw 2vw;
+	display:inline-block;
+	margin:0;
+	position:absolute;
+}
+h4{
+	color:white;
+	font-family: 'IntelClear';
+	position:absolute;
+	margin:0;
+}
+#device{
+    position: absolute;
+        z-index: -1;
+}
+#chip{
+    position: absolute;
+}
